@@ -16,10 +16,6 @@ This repository contains a responsive and elegant Todo List web app built using 
 
 You can check out the live demo of the Todo List web app [here]( https://vitchiana.github.io/Todo-list/)).
 
-## Screenshots
-
-![image]()
-
 ## Technologies Used
 
 - HTML5: The structure of the web app.
@@ -34,5 +30,5 @@ To run the Todo List web app on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Vitchiiana/todo-list.git
+git clone https://github.com/Vitchiiana/Todo-list.git
 ```
