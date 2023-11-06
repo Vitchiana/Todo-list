@@ -16,6 +16,10 @@ This repository contains a responsive and elegant Todo List web app built using 
 
 You can check out the live demo of the Todo List web app [here]( https://vitchiana.github.io/Todo-list/)).
 
+## Screenshots
+![image](/docs/assets/images/1.png)
+![image](/docs/assets/images/2.png)
+
 ## Technologies Used
 
 - HTML5: The structure of the web app.
